@@ -41,4 +41,4 @@ Code: MIT (http://opensource.org/licenses/MIT) year: 2020, copyright holder: Oli
 
 ### Program Versions required:
 
-The scripts were tested with ArcGIS 10.2 to ArcGIS 10.7
+The scripts were tested with ArcGIS 10.1 to ArcGIS 10.7
